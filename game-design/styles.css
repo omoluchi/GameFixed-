@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+:root {
+    --accent: #AE8FF0;
+    --accenthover: #8E63E9;
+    --transition: all 0.3s ease 0s;
+}
+
+{
+    box-sizing: border-box;
+    margin: 30;
+    padding: 0;
+}
